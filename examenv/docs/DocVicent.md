@@ -2,13 +2,15 @@
 ## VicentG
 
 En el módulo de Implantación de Aplicaciones Web hemos estudiado:  
+
 1. MarkDown
 2. Git
 3. GitHub
 4. Docker
 5. Wordpress
 
-En el apartado de Docker, hemos utilizado dos herramientas muy útiles:  
+En el apartado de Docker, hemos utilizado dos herramientas muy útiles:
+
 - Dockerfile
 - Docker COmpose
 
