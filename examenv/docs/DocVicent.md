@@ -1,12 +1,12 @@
 # Implantación de aplicaciones Web
 ## VicentG
 
-En el módulo de Implantación de Aplicaciones Web hemos estudiado:  
+*En el módulo de **Implantación de Aplicaciones Web** hemos estudiado:*  
 
 1. MarkDown
 2. Git
 3. GitHub
-4. Docker
+4. **Docker**
 5. Wordpress
 
 En el apartado de Docker, hemos utilizado dos herramientas muy útiles:
@@ -21,4 +21,4 @@ Esto es un trozo de código
 
 Toda la documentación lo tenemos subida en [Aules](https://portal.edu.gva.es/aules/)
 
-![Aules](2023-02-21_10-18.png)
+![Aules](https://portal.edu.gva.es/aules/wp-content/uploads/sites/644/2020/12/logo_aulesnew.png)
